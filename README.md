@@ -1,2 +1,2 @@
-# CHAT_Bot
+# CHAT_BOT
 Chat bot made using chat engine 
